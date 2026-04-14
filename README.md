@@ -302,3 +302,4 @@ Pull requests são bem-vindos! Sinta-se livre para abrir issues.
 Projeto open-source e gratuito para uso.
 
 ---
+Note: Some functions are not working due a intense 4 hours of work to make the database hold the user information, and i'm going to search why isn't working by the days, so, don't worry
