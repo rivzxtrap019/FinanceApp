@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd /home/ubuntu/dark-programas/server && node server\\.js$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
